@@ -3,7 +3,7 @@
 This is a hangman application that has a few words pre-written which will be converted to a string of underscores. The user is then prompted to enter a letter, and the program makes sure that the user input is correct (a valid char). The user has 6 attempts to guess the hidden word after which, the program terminates with ether a success message, or revealing what the original word was.
 
 ***
-[Software Demo Video]([https://youtu.be/08HNyan2w6E](https://youtu.be/ucDvqNY2iiY))
+[Software Demo Video](https://youtu.be/ucDvqNY2iiY)
 
 ***
 
